@@ -1,7 +1,9 @@
 # Lab-of-Computer-Programming-Final
-程式設計實習期末考題庫&範例解法
-網址大部分為中文翻譯。
+
+> 程式設計實習期末考題庫&範例解法，網址大部分為中文翻譯。
+
 ------
+
 - UVa 10589
   - http://luckycat.kshs.kh.edu.tw/homework/q10589.htm
   - 重點：圓方程式公式
