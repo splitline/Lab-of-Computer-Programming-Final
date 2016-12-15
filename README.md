@@ -4,19 +4,19 @@
 
 
 
-- UVa 10589
+- UVa 10589 [v]
   - http://luckycat.kshs.kh.edu.tw/homework/q10589.htm
   - 重點：圓方程式公式
-    > 圓心(a,b)，半徑r
+    => 圓心(a,b)，半徑r
     (x-a)^2+(y-b)^2=r^2
-- UVa 10673
+- UVa 10673 [v]
   - http://luckycat.kshs.kh.edu.tw/homework/q10673.htm
   - 我覺得不用用floor或ceil就能解了啊@@，我只用一個if就解了
-- UVa 10038
+- UVa 10038 [v]
   - http://luckycat.kshs.kh.edu.tw/homework/q10038.htm
-- UVa 10924
+- UVa 10924 [v]
   - http://luckycat.kshs.kh.edu.tw/homework/q10924.htm
-- UVa 11059
+- UVa 11059 [v]
   - http://luckycat.kshs.kh.edu.tw/homework/q11059.htm
 - UVa 10209
   - http://luckycat.kshs.kh.edu.tw/homework/q10209.htm
