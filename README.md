@@ -22,7 +22,7 @@
   - http://luckycat.kshs.kh.edu.tw/homework/q10209.htm
 - UVa 10141 [v]
   - http://luckycat.kshs.kh.edu.tw/homework/q10141.htm
-- UVa 11192
+- UVa 11192 [v]
   - http://luckycat.kshs.kh.edu.tw/homework/q11192.htm
 - UVa 10415
   - http://m80126colin.github.io/blog/articles/%E7%BF%BB%E8%AD%AF/uva/uva10415/
