@@ -24,11 +24,13 @@
   - http://luckycat.kshs.kh.edu.tw/homework/q10141.htm
 - UVa 11192 [v]
   - http://luckycat.kshs.kh.edu.tw/homework/q11192.htm
+  - G是群組個數而非群組大小。
 - UVa 10415 [v]
   - http://m80126colin.github.io/blog/articles/%E7%BF%BB%E8%AD%AF/uva/uva10415/
+  - 空白行也算一行測資ㄛ
 - UVa 12694
   - http://luckycat.kshs.kh.edu.tw/homework/q12694.htm
-- UVa 591
+- UVa 591 [v]
   - http://luckycat.kshs.kh.edu.tw/homework/q591.htm
 - UVa 10922
   - http://luckycat.kshs.kh.edu.tw/homework/q10922.htm
