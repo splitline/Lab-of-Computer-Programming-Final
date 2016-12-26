@@ -32,7 +32,7 @@
   - http://luckycat.kshs.kh.edu.tw/homework/q12694.htm
 - UVa 591 [v]
   - http://luckycat.kshs.kh.edu.tw/homework/q591.htm
-- UVa 10922
+- UVa 10922 [v]
   - http://luckycat.kshs.kh.edu.tw/homework/q10922.htm
 - UVa 11067
   - (EN) https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=2008
