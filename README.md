@@ -28,7 +28,7 @@
 - UVa 10415 [v]
   - http://m80126colin.github.io/blog/articles/%E7%BF%BB%E8%AD%AF/uva/uva10415/
   - 空白行也算一行測資ㄛ
-- UVa 12694
+- UVa 12694 [v]
   - http://luckycat.kshs.kh.edu.tw/homework/q12694.htm
 - UVa 591 [v]
   - http://luckycat.kshs.kh.edu.tw/homework/q591.htm
