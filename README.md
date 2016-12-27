@@ -41,7 +41,7 @@
   - http://acm.hdu.edu.cn/showproblem.php?pid=4417
 - HDOJ 5881(2016 ACM/ICPC Asia Regional Qingdao)
   - http://acm.hdu.edu.cn/showproblem.php?pid=5881
-- HDOJ 5882(2016 ACM/ICPC Asia Regional Qingdao)
+- HDOJ 5882(2016 ACM/ICPC Asia Regional Qingdao) [v]
   - http://acm.hdu.edu.cn/showproblem.php?pid=5882
 - HDOJ 1008
   - http://acm.hdu.edu.cn/showproblem.php?pid=1008
